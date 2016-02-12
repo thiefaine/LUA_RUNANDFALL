@@ -17,15 +17,19 @@
 
 <p><strong>Specifications</strong></p>
 
-<p>Made with : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Lua</strong> and <strong>Love 2D</strong> <br>
-Creation year : &nbsp;2015 <br>
-How long : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-3 weeks <br>
-Team : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 member – Dubray Matthias</p>
+<p><em>Made with</em> : <strong>Lua</strong> and <strong>Love 2D</strong> <br>
+<em>Creation year</em> : 2015 <br>
+<em>How long</em> : 2-3 weeks <br>
+<em>Team</em> : 1 member – Dubray Matthias</p>
 
-<p>Screenshots :  <br>
-Builds : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="LinkForWindows">Linux</a></p>
+<p><em>Screenshots</em> :  <br>
+<img src="http://matthiasdubray.com/screenshots/gate.png" alt="enter image description here" title=""></p>
 
+<p><img src="http://matthiasdubray.com/screenshots/gate2.png" alt="enter image description here" title=""></p>
 
+<p><img src="http://matthiasdubray.com/screenshots/gate3.png" alt="enter image description here" title=""></p>
+
+<p><img src="http://matthiasdubray.com/screenshots/gate4.png" alt="enter image description here" title=""></p>
 
 <h1 id="table-of-contents">Table of contents</h1>
 
@@ -73,7 +77,7 @@ sh play.sh
 
 <hr>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>w</kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>up</kbd> <br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>w</kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>up</kbd> <br>
 <strong>Control gates</strong> : <kbd>a</kbd><kbd>s</kbd><kbd>d</kbd> <strong>OR</strong> <kbd>left</kbd><kbd>down</kbd><kbd>right</kbd> <br>
 <strong>Settings</strong> : <kbd>Esc</kbd></p></div></body>
 </html>
